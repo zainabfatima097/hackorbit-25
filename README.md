@@ -96,6 +96,7 @@
 
 - [Gemini API](https://ai.google.dev/)
 
+📄 [Pitch Deck – HackOrbit 2025](./docs.pdf/Ctrl+Shift+Fix.pdf)
 
 
 
