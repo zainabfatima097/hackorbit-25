@@ -29,7 +29,6 @@
 ## About The Project
 
 **Ctrl+Shift+Fix** is a **VS Code extension** designed to boost developer productivity by automating **code completion, bug fixes with GUI, automated builds and testing**. It helps developers write code faster and with fewer errors by offering **AI-powered suggestions**, **real-time error detection**, and **one-click bug fixing & auto-build**.
-
 ---
 
 📄 [Pitch Deck – HackOrbit 2025](./docs.pdf/Ctrl+Shift+Fix.pdf)
@@ -101,33 +100,34 @@ Here are some instructions to make your own copy of Ctrl+Shift+Fix and get start
 
 While tools like **GitHub Copilot**, **Cursor**, and **Claude** assist with AI-powered code suggestions, **Ctrl+Shift+Fix** stands out with a few *unique power-ups*:
 
-```diff
-+ Inline Bug Detection & Fixing
+
+ Inline Bug Detection & Fixing
   Instantly detects bugs and displays AI-generated fixes inside a webview sidebar.
   You can apply a fix with one click – no need to copy/paste from another tab.
 
-+ Gamified UI
+ Gamified UI
   Comes with a retro pixel-art inspired GUI for error fixes, making debugging more fun.
   It's not just helpful, it's ✨ vibey ✨.
 
-+ Auto-Build Support (Experimental)
+ Auto-Build Support (Experimental)
   After applying all fixes, Ctrl+Shift+Fix can auto-compile your code from within VS Code.
 
-+ No Fluff, Just Fixes
+ No Fluff, Just Fixes
   Fixes are *surgical*. The AI is instructed to only change the error line and nothing else.
   No hallucinated code, no unwanted edits.
 
-+ Made for Beginners (by a Beginner)
+ Made for Beginners (by a Beginner)
   Designed with simplicity in mind, especially for early-stage devs who want guided debugging.
   Built entirely by a first-year CS student — so it’s relatable and real.
 
-+ Fully Open Source
+ Fully Open Source
   You can view, edit, and extend everything. Want it to fix CSS too? You can totally make it happen.
 
 ## Current Limitations
 Due to continuous large number of API calls for auto-completion and suggestion of possible bugs, resource might get exhausted.
 
-📄 [Pitch Deck – HackOrbit 2025](./docs.pdf/Ctrl+Shift+Fix.pdf)
+
+*Built as a solo project by a first-year Computer Science undergrad — crafted during midnight vibe-coding sessions and a ton of trial & error.*
 
 
 
