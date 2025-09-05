@@ -26,12 +26,10 @@
 
 ---
 
-## About The Project
+About The Project
 
-**Ctrl+Shift+Fix** is a **VS Code extension** designed to boost developer productivity by automating **code completion, bug fixes with GUI, automated builds and testing**. It helps developers write code faster and with fewer errors by offering **AI-powered suggestions**, **real-time error detection**, and **one-click bug fixing & auto-build**.
----
+Ctrl+Shift+Fix is a VS Code extension designed to boost developer productivity by automating code completion, bug fixes with GUI, automated builds and testing. It helps developers write code faster and with fewer errors by offering AI-powered suggestions, real-time error detection, and one-click bug fixing & auto-build.
 
-📄 [Pitch Deck – HackOrbit 2025](./docs.pdf/Ctrl+Shift+Fix.pdf)
 ---
 
 ### Features 
